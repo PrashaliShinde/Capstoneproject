@@ -1,1 +1,1 @@
-# Capstoneproject
+# Capstoneproject Segenting and Clustering
